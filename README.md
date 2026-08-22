@@ -71,6 +71,7 @@ root@github:~$ nc -lvnp 1337   # open for connections
 
 <p align="center">
   <a href="https://github.com/KHALEDSAMY1"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41" alt="github" /></a>
+  <a href="https://www.linkedin.com/in/khaled-samy-603884279/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="linkedin" /></a>
   <a href="mailto:akmkhaled013@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="email" /></a>
 </p>
 
