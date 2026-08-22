@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=170&section=header&text=KHALED%20SAMY&fontSize=48&fontColor=0D1117&desc=junior%20software%20engineer%20%7C%20python%20%7C%20embedded&descAlignY=72&descSize=16" width="100%" alt="header" />
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=680&lines=%24+whoami;%3E+Khaled+Samy+%3A%3A+junior+software+engineer;%3E+python+%7C+embedded+%7C+games;%3E+access+granted+_" alt="typing banner" />
 </h1>
@@ -85,8 +87,17 @@ root@github:~$ ./scan --target metrics --format graph
 ```
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KHALEDSAMY1&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHALEDSAMY1&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" alt="top langs" />
+  <img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KHALEDSAMY1&theme=github_dark" alt="profile summary" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KHALEDSAMY1&theme=github_dark" alt="repos per language" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KHALEDSAMY1&theme=github_dark" alt="most commit language" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KHALEDSAMY1&theme=github_dark" alt="commit stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KHALEDSAMY1&theme=github_dark&utcOffset=3" alt="productive time" />
 </p>
 
 <p align="center">
@@ -102,7 +113,7 @@ root@github:~$ ./loot --trophies
 ```
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KHALEDSAMY1&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies" />
+  <img src="https://github-trophies.vercel.app/?username=KHALEDSAMY1&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies" />
 </p>
 
 ```console
@@ -134,3 +145,5 @@ root@github:~$ nc -lvnp 1337   # open for connections
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=520&lines=connection+closed+by+remote+host;happy+hacking+%3A)" alt="footer" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0D1117&height=120&section=footer" width="100%" alt="footer wave" />
