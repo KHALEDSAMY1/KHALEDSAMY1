@@ -98,11 +98,40 @@ root@github:~$ ./scan --target metrics --format graph
 </p>
 
 ```console
+root@github:~$ ./loot --trophies
+```
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KHALEDSAMY1&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies" />
+</p>
+
+```console
+root@github:~$ cat ~/pinned
+```
+
+<p align="center">
+  <a href="https://github.com/KHALEDSAMY1/Shadow-strike"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KHALEDSAMY1&repo=Shadow-strike&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="Shadow-strike" /></a>
+  <a href="https://github.com/KHALEDSAMY1/Hero-and-Dragon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KHALEDSAMY1&repo=Hero-and-Dragon&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="Hero-and-Dragon" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/KHALEDSAMY1/SoloLevelingArise"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KHALEDSAMY1&repo=SoloLevelingArise&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="SoloLevelingArise" /></a>
+  <a href="https://github.com/KHALEDSAMY1/Choose-Your-Own-Adventure"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KHALEDSAMY1&repo=Choose-Your-Own-Adventure&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="Choose-Your-Own-Adventure" /></a>
+</p>
+
+```console
 root@github:~$ trace --contributions
 ```
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/KHALEDSAMY1/KHALEDSAMY1/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+</p>
+
+```console
+root@github:~$ fortune | cowsay
+```
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="dev quote" />
 </p>
 
 ```console
