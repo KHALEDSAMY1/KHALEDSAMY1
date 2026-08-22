@@ -106,19 +106,6 @@ root@github:~$ ./loot --trophies
 </p>
 
 ```console
-root@github:~$ cat ~/pinned
-```
-
-<p align="center">
-  <a href="https://github.com/KHALEDSAMY1/Shadow-strike"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KHALEDSAMY1&repo=Shadow-strike&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="Shadow-strike" /></a>
-  <a href="https://github.com/KHALEDSAMY1/Hero-and-Dragon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KHALEDSAMY1&repo=Hero-and-Dragon&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="Hero-and-Dragon" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/KHALEDSAMY1/SoloLevelingArise"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KHALEDSAMY1&repo=SoloLevelingArise&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="SoloLevelingArise" /></a>
-  <a href="https://github.com/KHALEDSAMY1/Choose-Your-Own-Adventure"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KHALEDSAMY1&repo=Choose-Your-Own-Adventure&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="Choose-Your-Own-Adventure" /></a>
-</p>
-
-```console
 root@github:~$ trace --contributions
 ```
 
