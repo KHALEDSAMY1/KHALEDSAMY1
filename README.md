@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=170&section=header&text=KHALED%20SAMY&fontSize=48&fontColor=0D1117&desc=junior%20software%20engineer%20%7C%20python%20%7C%20embedded&descAlignY=72&descSize=16" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=170&section=header&text=KHALED%20SAMY&fontSize=48&fontColor=0D1117&desc=PROGRAMMER%20%7C%20PYTHON%20%7C%20EMBEDDED%20%7C%20GAMES&descAlignY=75&descSize=26" width="100%" alt="header" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=680&lines=%24+whoami;%3E+Khaled+Samy+%3A%3A+junior+software+engineer;%3E+python+%7C+embedded+%7C+games;%3E+access+granted+_" alt="typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=680&lines=%24+whoami;%3E+Khaled+Samy+%3A%3A+programmer;%3E+python+%7C+embedded+%7C+games;%3E+access+granted+_" alt="typing banner" />
 </h1>
 
 <p align="center">
@@ -18,7 +18,7 @@ root@github:~$ cat /etc/profile.d/khaled.sh
 ```yaml
 user:
   name: Khaled Samy
-  role: Junior Software Engineer
+  role: Programmer
   location: Alexandria, Egypt
   education: Mathematical Sciences track, high school diploma (2023 - 2026)
   main_language: Python
