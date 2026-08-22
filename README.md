@@ -11,9 +11,9 @@
   <img src="https://img.shields.io/github/followers/KHALEDSAMY1?style=for-the-badge&color=00FF41&labelColor=0D1117" alt="followers" />
 </p>
 
-```console
-root@github:~$ cat /etc/profile.d/khaled.sh
-```
+<h3 align="center">
+  <img src="https://img.shields.io/badge/ABOUT_ME-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF41&logo=gnubash&logoColor=00FF41" alt="about me" />
+</h3>
 
 ```yaml
 user:
@@ -28,9 +28,9 @@ user:
   motto: "read the docs, then read the source"
 ```
 
-```console
-root@github:~$ ls -la ./stack
-```
+<h3 align="center">
+  <img src="https://img.shields.io/badge/TECH_STACK-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF41&logo=stackshare&logoColor=00FF41" alt="tech stack" />
+</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,html,css,git,github,githubactions,linux,bash,vscode,raspberrypi,arduino,markdown&theme=dark" alt="stack" />
@@ -43,23 +43,23 @@ root@github:~$ ls -la ./stack
   <img src="https://img.shields.io/badge/Sensors%20%26%20GPIO-0D1117?style=flat-square&logo=riscv&logoColor=00FF41" alt="sensors" />
 </p>
 
-```console
-root@github:~$ ls ~/projects/software
-```
+<h3 align="center">
+  <img src="https://img.shields.io/badge/SOFTWARE_PROJECTS-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF41&logo=python&logoColor=00FF41" alt="software projects" />
+</h3>
 
 | project | what it is | built with |
 | :-- | :-- | :-- |
-| [**Shadow-strike**](https://github.com/KHALEDSAMY1/Shadow-strike) | 2D action-adventure game with custom game logic. | Python, Pygame |
-| [**Hero-and-Dragon**](https://github.com/KHALEDSAMY1/Hero-and-Dragon) | Collect 10 eggs before the timer runs out — while dodging dragons. | Python, Pygame |
-| [**SoloLevelingArise**](https://github.com/KHALEDSAMY1/SoloLevelingArise) | Story-driven game with dungeon gates, daily quests and a boss fight. | Python |
-| [**Choose-Your-Own-Adventure**](https://github.com/KHALEDSAMY1/Choose-Your-Own-Adventure) | Branching text adventure with scenes as separate modules. | Python |
-| [**NumberGuessing-Game**](https://github.com/KHALEDSAMY1/NumberGuessing-Game) | Guessing game split into input, logic and randomness modules. | Python |
-| [**Magic-8-Ball**](https://github.com/KHALEDSAMY1/Magic-8-Ball) | Magic 8-Ball simulator that answers yes/no questions. | Python |
-| [**PDF-Courses**](https://github.com/KHALEDSAMY1/PDF-Courses) | My archive of programming books and course material. | — |
+| <a href="https://github.com/KHALEDSAMY1/Shadow-strike"><img src="https://img.shields.io/badge/Shadow--strike-0D1117?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0D1117&color=00FF41" alt="Shadow-strike" /></a> | 2D action-adventure game with custom game logic. | Python, Pygame |
+| <a href="https://github.com/KHALEDSAMY1/Hero-and-Dragon"><img src="https://img.shields.io/badge/Hero--and--Dragon-0D1117?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0D1117&color=00FF41" alt="Hero-and-Dragon" /></a> | Collect 10 eggs before the timer runs out — while dodging dragons. | Python, Pygame |
+| <a href="https://github.com/KHALEDSAMY1/SoloLevelingArise"><img src="https://img.shields.io/badge/SoloLevelingArise-0D1117?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0D1117&color=00FF41" alt="SoloLevelingArise" /></a> | Story-driven game with dungeon gates, daily quests and a boss fight. | Python |
+| <a href="https://github.com/KHALEDSAMY1/Choose-Your-Own-Adventure"><img src="https://img.shields.io/badge/Choose--Your--Own--Adventure-0D1117?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0D1117&color=00FF41" alt="Choose-Your-Own-Adventure" /></a> | Branching text adventure with scenes as separate modules. | Python |
+| <a href="https://github.com/KHALEDSAMY1/NumberGuessing-Game"><img src="https://img.shields.io/badge/NumberGuessing--Game-0D1117?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0D1117&color=00FF41" alt="NumberGuessing-Game" /></a> | Guessing game split into input, logic and randomness modules. | Python |
+| <a href="https://github.com/KHALEDSAMY1/Magic-8-Ball"><img src="https://img.shields.io/badge/Magic--8--Ball-0D1117?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0D1117&color=00FF41" alt="Magic-8-Ball" /></a> | Magic 8-Ball simulator that answers yes/no questions. | Python |
+| <a href="https://github.com/KHALEDSAMY1/PDF-Courses"><img src="https://img.shields.io/badge/PDF--Courses-0D1117?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0D1117&color=00FF41" alt="PDF-Courses" /></a> | My archive of programming books and course material. | — |
 
-```console
-root@github:~$ ls ~/projects/hardware
-```
+<h3 align="center">
+  <img src="https://img.shields.io/badge/HARDWARE_PROJECTS-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF41&logo=espressif&logoColor=00FF41" alt="hardware projects" />
+</h3>
 
 | build | what it does |
 | :-- | :-- |
@@ -70,9 +70,9 @@ root@github:~$ ls ~/projects/hardware
 
 <sub>All four are MicroPython + ESP32 builds. Code and wiring notes are being moved into their own repositories.</sub>
 
-```console
-root@github:~$ cat ~/certifications
-```
+<h3 align="center">
+  <img src="https://img.shields.io/badge/CERTIFICATIONS-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF41&logo=coursera&logoColor=00FF41" alt="certifications" />
+</h3>
 
 ```text
 [2025-10] Hardware Interfacing Using MicroPython — Level 1
@@ -82,9 +82,9 @@ root@github:~$ cat ~/certifications
 [2024-11] Programming Basic Concepts with Python
 ```
 
-```console
-root@github:~$ ./scan --target metrics --format graph
-```
+<h3 align="center">
+  <img src="https://img.shields.io/badge/GITHUB_STATS-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF41&logo=github&logoColor=00FF41" alt="github stats" />
+</h3>
 
 <p align="center">
   <img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KHALEDSAMY1&theme=github_dark" alt="profile summary" />
@@ -108,33 +108,33 @@ root@github:~$ ./scan --target metrics --format graph
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KHALEDSAMY1&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-```console
-root@github:~$ ./loot --trophies
-```
+<h3 align="center">
+  <img src="https://img.shields.io/badge/TROPHIES-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF41&logo=github&logoColor=00FF41" alt="trophies" />
+</h3>
 
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=KHALEDSAMY1&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies" />
 </p>
 
-```console
-root@github:~$ trace --contributions
-```
+<h3 align="center">
+  <img src="https://img.shields.io/badge/CONTRIBUTIONS-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF41&logo=git&logoColor=00FF41" alt="contributions" />
+</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/KHALEDSAMY1/KHALEDSAMY1/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 </p>
 
-```console
-root@github:~$ fortune | cowsay
-```
+<h3 align="center">
+  <img src="https://img.shields.io/badge/DEV_QUOTE-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF41&logo=quotesofhope&logoColor=00FF41" alt="dev quote" />
+</h3>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="dev quote" />
 </p>
 
-```console
-root@github:~$ nc -lvnp 1337   # open for connections
-```
+<h3 align="center">
+  <img src="https://img.shields.io/badge/CONTACT_ME-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF41&logo=minutemailer&logoColor=00FF41" alt="contact me" />
+</h3>
 
 <p align="center">
   <a href="https://github.com/KHALEDSAMY1"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41" alt="github" /></a>
